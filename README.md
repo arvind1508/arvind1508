@@ -21,6 +21,6 @@ I specialize in building robust e-commerce systems and custom apps for **Shopify
 
 ### 📫 Get in Touch:
 - **LinkedIn**: [Arvind Kumar](https://www.linkedin.com/in/arvind-kumar-baab2a159)
-- **Upwork**: [My Upwork Profile](https://www.upwork.com/)
+- **Upwork**: [My Upwork Profile](https://www.upwork.com/freelancers/~0120ae4eceb733a9f0?viewMode=1)
 
 Feel free to check out my repositories and let’s connect if you're looking for custom solutions for your e-commerce projects!
